@@ -1,0 +1,77 @@
+.page {
+  padding: 32rpx;
+  box-sizing: border-box;
+}
+
+.hero {
+  padding: 40rpx 4rpx 28rpx;
+}
+
+.eyebrow {
+  font-size: 22rpx;
+  color: #777777;
+  letter-spacing: 1rpx;
+}
+
+.title {
+  margin-top: 12rpx;
+  font-size: 52rpx;
+  line-height: 1.08;
+  font-weight: 800;
+  color: #111111;
+}
+
+.subtitle {
+  margin-top: 18rpx;
+  font-size: 28rpx;
+  line-height: 1.65;
+  color: #555555;
+}
+
+.action-card {
+  margin-bottom: 24rpx;
+}
+
+.section-title {
+  font-size: 32rpx;
+  font-weight: 700;
+  color: #111111;
+}
+
+.section-desc {
+  margin: 12rpx 0 24rpx;
+  font-size: 26rpx;
+  color: #666666;
+}
+
+.empty {
+  margin-top: 24rpx;
+  font-size: 26rpx;
+  color: #888888;
+  line-height: 1.6;
+}
+
+.project-item {
+  margin-top: 24rpx;
+  padding: 24rpx 0;
+  border-top: 1px solid #eeeeee;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.project-name {
+  font-size: 30rpx;
+  font-weight: 700;
+}
+
+.project-meta {
+  margin-top: 8rpx;
+  font-size: 24rpx;
+  color: #777777;
+}
+
+.project-arrow {
+  font-size: 52rpx;
+  color: #999999;
+}
