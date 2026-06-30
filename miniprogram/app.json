@@ -1,0 +1,14 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/editor/editor"
+  ],
+  "window": {
+    "navigationBarTitleText": "型材结构设计器",
+    "navigationBarBackgroundColor": "#111111",
+    "navigationBarTextStyle": "white",
+    "backgroundColor": "#f6f6f6"
+  },
+  "style": "v2",
+  "sitemapLocation": "sitemap.json"
+}
